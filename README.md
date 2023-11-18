@@ -19,7 +19,7 @@ This is the first project I completed to learn React at the beginning of Mod 3. 
 
 # Preview of App:
  <div align='center'> 
-  <h2> Ideabox </h2>
+  <h2> My Ideabox </h2>
    
    ![UFO Sightings](https://github.com/Nicolelam8891/ufo-ideabox-mod-3-project/assets/132624450/40d12284-a548-49a4-8b56-8b6dfbac7528)
 
