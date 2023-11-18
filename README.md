@@ -32,6 +32,7 @@ This is the first project I completed to learn React at the beginning of Mod 3. 
 - Run the command: `cd ideaboxufo`
 - Run the command: `npm install`
 - Run the command: `npm start`
+- <br></br>
 - API: [Backend](https://github.com/turingschool-examples/react-practice-servers/blob/main/ufo-sightings/README.md)
 - Run start the server: `node ufo-sightings/server.js`
 - Run the command: `npm install`
