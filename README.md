@@ -1,7 +1,7 @@
 <div align="center">
 <h1> UFO Ideabox </h1>
 
-[VISIT THE LIVE SITE HERE](ufo-ideabox-mod-3-project.vercel.app)
+[VISIT THE LIVE SITE HERE](https://ufo-ideabox-mod-3-project-2sz1qjyn3-nicole-gia-lams-projects.vercel.app/p)
 
 
 Technologies used:<br>
