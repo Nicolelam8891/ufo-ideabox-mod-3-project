@@ -38,4 +38,4 @@ This is the first project I completed to learn React at the beginning of Mod 3. 
 - Run the command: `npm start or node server.js`
 
 ## Contributors:
-- [NICOLE LAM](https://github.com/Nicolelam8891)
+- [Ngoc (Nicole) Lam](https://github.com/Nicolelam8891)
