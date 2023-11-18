@@ -1,0 +1,81 @@
+body {
+  background-color: #9eb385; 
+  font-family: fantasy, 'Arial', sans-serif; 
+  font-size: 25px;
+font-weight: 900;
+  color: #333;
+  background-color: #a3be81;
+  background: linear-gradient(0deg, #a1c092, #d1d8cf);
+  height: 100vh;
+}
+
+h1 {
+  font-size: 3em; 
+  font-weight: bold; 
+  text-shadow: 10px 10px 10px rgba(65, 116, 87, 0.1);
+  letter-spacing: 1.5px; 
+  margin-bottom: 20px; 
+  color: #2c2c2c;
+  font-family: 'Georgia', serif; 
+}
+
+.card h2 {  
+  font-family: 'Arial', sans-serif;
+  font-size: 24px;
+  font-weight: bold;
+  margin-bottom: 12px;
+}
+
+.idea-container {
+  padding: 45px; 
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  grid-gap: 35px;
+  background-color: rgba(53, 82, 69, 0.1); 
+  border-radius: 15px; 
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.card {
+  box-sizing: border-box;
+  border: 3px solid #333; 
+  padding: 25px; 
+  background-color: #f0f4ea; 
+  border-radius: 12px; 
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center; 
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+  box-shadow: 0 5px 10px rgba(0, 0, 0, 0.08); 
+}
+
+.card:hover {
+  transform: scale(1.05);
+  box-shadow: 0 8px 16px rgba(0, 0, 0, 0.15); 
+}
+
+.card button {
+  margin-top: 15px; 
+  padding: 12px 25px;
+  border: none;
+  border-radius: 5px; 
+  background-color: #77a17c; 
+  color: #333; 
+  cursor: pointer; 
+  transition: background-color 0.3s ease, transform 0.3s ease, box-shadow 0.3s ease; 
+  color: #fff; 
+}
+
+.card button:hover {
+  background-color: #9bdaae;
+  transform: translateY(-3px);
+  box-shadow: 0 10px 20px rgba(0, 0, 0, 0.12); 
+}
+
+@media screen and (max-width: 768px) { 
+  .idea-container {
+    grid-template-columns: 1fr;  
+    padding: 22px;
+  }
+}

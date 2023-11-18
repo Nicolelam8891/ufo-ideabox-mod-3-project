@@ -1,0 +1,45 @@
+body {
+  font-family: 'Arial', sans-serif;
+  background-color: #d1d8cf; 
+}
+
+.Form {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 20px;
+  background-color: #f5f9f4;
+  border-radius: 10px;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); 
+}
+
+Form, form {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  width: 400px;
+  margin: 20px auto; 
+}
+
+input, button {
+  margin: 10px 0;
+  padding: 10px 15px;
+  width: 100%;
+  border: 2px solid #8ca87e; 
+  border-radius: 5px; 
+  font-size: 18px;
+  background-color: #ffffff; 
+  transition: 0.3s; 
+}
+
+button {
+  background-color: #8ca87e; 
+  color: white; 
+  cursor: pointer; 
+}
+
+button:hover {
+  background-color: #6b8a68;
+}
