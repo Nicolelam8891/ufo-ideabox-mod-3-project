@@ -1,70 +1,41 @@
-# Getting Started with Create React App
+<div align="center">
+<h1> UFO Ideabox </h1>
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+[VISIT THE LIVE SITE HERE](ufo-ideabox-mod-3-project.vercel.app)
 
-## Available Scripts
 
-In the project directory, you can run:
+Technologies used:<br>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" />
+  <img src="https://img.shields.io/badge/-cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5e" />
+  <br>
 
-### `npm start`
+</div>
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+## Abstract: 
+This is the first project I completed to learn React at the beginning of Mod 3. For this project, I was introduced to new technologies such as: Cypress e2e testing and React. I am able to complete a GET and POST network request. Users can type in the title and description and click on the submit button to create a new card of information. In addition, users are able to delete the card as well! 
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+# Preview of App:
+ <div align='center'> 
+  <h2> Ideabox </h2>
+   
+   ![UFO Sightings](https://github.com/Nicolelam8891/ufo-ideabox-mod-3-project/assets/132624450/40d12284-a548-49a4-8b56-8b6dfbac7528)
 
-### `npm test`
+ </div>
+ 
+## Installation Instructions:
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+- Fork [this](https://github.com/Nicolelam8891/ufo-ideabox-mod-3-project) repository. 
+- Clone it to your local machine using the command: `git@github.com:Nicolelam8891/ufo-ideabox-mod-3-project.git`.
+- Run the command: `cd ideaboxufo`
+- Run the command: `npm install`
+- Run the command: `npm start`
+- API: [Backend](https://github.com/turingschool-examples/react-practice-servers/blob/main/ufo-sightings/README.md)
+- Run start the server: `node ufo-sightings/server.js`
+- Run the command: `npm install`
+- Run the command: `npm start or node server.js`
 
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+## Contributors:
+- [NICOLE LAM](https://github.com/Nicolelam8891)
